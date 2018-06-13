@@ -1,0 +1,2 @@
+# Konane-Minimax-and-Alpha-Beta-Pruning
+Konane is a Hawaiian checkers game for two players. Implements a Computer player via the Minimax algorithm with the ability to enable Alpha-Beta Pruning on the fly. Also implements a help mode for the human player by the same measures. Each ply for the game-tree is representative of a move that can be made by each player. Heuristic function is the difference in the score of the two players.
